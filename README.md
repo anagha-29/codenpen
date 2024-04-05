@@ -1,2 +1,2 @@
-# codenpen-basic
+# codenpen clone 
 Basic version of codepen developed using React.js
